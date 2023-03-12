@@ -35,7 +35,8 @@
  ####  1_My Sites
  lorem Ipsume lorem Ipsume lorem Ipsume<br/>
 
- [![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)](https://www.notion.so/nhwa-space) [![PortFolio](https://img.shields.io/badge/Portfolio-4285F4.svg?&style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://www.notion.so/nhwa-space)
+ [![Notion](https://img.shields.io/badge/Notion-000000.svg?&style=for-the-badge&logo=Notion&logoColor=white)](https://devnhwa.notion.site/I-m-A-Flower-a137ceae4d454de2a75b7650971ecb5f) 
+ [![PortFolio](https://img.shields.io/badge/Portfolio-4285F4.svg?&style=for-the-badge&logo=GoogleChrome&logoColor=white)](https://nhwa.github.io/)
 
  <br/>
 
