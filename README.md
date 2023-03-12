@@ -70,25 +70,21 @@
  
  ### 🌗
  #### 3_Tools 
- <p>
-     <code>
-      <img height="20" 
-         src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png" 
-         style="max-width: 100%;">
-      </code>
-   </p>
+ <p><code><img height="20"src="https://upload.wikimedia.org/wikipedia/commons/thumb/f/fb/Adobe_Illustrator_CC_icon.svg/1200px-Adobe_Illustrator_CC_icon.svg.png"> <img height="20"src="https://upload.wikimedia.org/wikipedia/commons/a/af/Adobe_Photoshop_CC_icon.svg"> <img height="20"src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg">
+ <img height="20"src="https://upload.wikimedia.org/wikipedia/commons/4/48/Adobe_InDesign_CC_icon.svg">
+ </code></p>
 
  <br/>
  
  ### 🌒
- #### 4_Tools 
+ #### 4_badge 
 
  [![Solved.ac Profile](http://mazassumnida.wtf/api/v2/generate_badge?boj=ohi07)](https://solved.ac/ohi07/)
 
  <br/>
  
  ### 🌕
- #### 5_Tools 
+ #### 5_Github Status
  
  ![Nanhwa's GitHub stats](https://github-readme-stats.vercel.app/api?username=nhwa&show_icons=true&theme=cobalt)
 
